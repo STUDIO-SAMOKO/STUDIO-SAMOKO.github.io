@@ -11,7 +11,7 @@
 ### [App Store (ios)](https://apps.apple.com/us/app/samoko/id6476100658)
 <br>
 
-### [Play Store (anroid)](https://play.google.com/store/apps/details?id=com.STUDIOSAMOKO.SAMOKO&pcampaignid=web_share)
+### [Play Store (anroid)](https://play.google.com/store/apps/details?id=com.STUDIOSAMOKO.SAMOKO)
 <br>  
 <br>  
 <br>  
