@@ -8,7 +8,7 @@
 <br>  
 <br>  
 
-### [App Store (ios)](https://apps.apple.com/us/app/samoko/id6476100658)
+### [App Store (ios)](https://apps.apple.com/app/samoko/id6476100658)
 <br>
 
 ### [Play Store (anroid)](https://play.google.com/store/apps/details?id=com.STUDIOSAMOKO.SAMOKO)
