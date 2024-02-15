@@ -30,5 +30,5 @@ The game is characterized by cute graphics, challenging levels, and simple gamep
 
 <p align="center">
   <!-- 662 x 706 -->
-  <img src="https://github.com/STUDIO-SAMOKO/STUDIO-SAMOKO.github.io/assets/155935147/6163b316-0e4d-4262-98fc-3ca539d6898b" width="110" height="117"/>
+  <img src="https://github.com/STUDIO-SAMOKO/STUDIO-SAMOKO.github.io/assets/155935147/6163b316-0e4d-4262-98fc-3ca539d6898b" width="82.75" height="88.25"/>
 </p>
