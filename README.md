@@ -8,10 +8,20 @@
 <br>  
 <br>  
 
-### [App Store (ios)](https://apps.apple.com/app/samoko/id6476100658)
+<p align="center">
+  <a href="https://apps.apple.com/app/samoko/id6476100658">
+  <img src="https://github.com/STUDIO-SAMOKO/STUDIO-SAMOKO.github.io/assets/155935147/595a8ef2-51d8-4a81-9925-8cd188dfe838"/>
+  </a>
+</p>
+
 <br>
 
-### [Play Store (anroid)](https://play.google.com/store/apps/details?id=com.STUDIOSAMOKO.SAMOKO)
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.STUDIOSAMOKO.SAMOKO">
+  <img src="https://github.com/STUDIO-SAMOKO/STUDIO-SAMOKO.github.io/assets/155935147/c8e15e78-7e83-4357-b393-20c83d2ef1a4"/>
+  </a>
+</p>
+
 <br>  
 <br>  
 <br>  
