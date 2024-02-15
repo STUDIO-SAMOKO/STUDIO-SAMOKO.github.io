@@ -4,8 +4,12 @@
   <img src="https://github.com/STUDIO-SAMOKO/STUDIO-SAMOKO.github.io/assets/155935147/522190ad-15c2-4b8d-8c61-48adf9630ef4" width="217" height="217"/>
 </p>
 
-"SAMOKO," inspired by the "Watermelon Game," is an addictive animal merge mobile game. Players combine various animals to evolve them into stronger creatures, aiming to create the highest level animal. The game is characterized by cute graphics, challenging levels, and simple gameplay mechanics. "SAMOKO" is easily downloadable on mobile devices.
-<br>  
+<p align="center">
+"SAMOKO," inspired by the "Watermelon Game," is an addictive animal merge mobile game.<br>
+Players combine various animals to evolve them into stronger creatures, aiming to create the highest level animal.<br>
+The game is characterized by cute graphics, challenging levels, and simple gameplay mechanics.<br>
+"SAMOKO" is easily downloadable on mobile devices.
+</p>
 <br>  
 
 <p align="center">
@@ -14,17 +18,15 @@
   </a>
 </p>
 
-<br>
-
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.STUDIOSAMOKO.SAMOKO">
   <img src="https://github.com/STUDIO-SAMOKO/STUDIO-SAMOKO.github.io/assets/155935147/c8e15e78-7e83-4357-b393-20c83d2ef1a4"/>
   </a>
 </p>
 
-<br>  
-<br>  
-<br>  
+<br>
+<br>
+<br>
 
 <p align="center">
   <!-- 662 x 706 -->
