@@ -1,4 +1,1 @@
-{
-  minimum_ios : 930,
-  minimum_android : 931
-}
+{"minimum_ios": 930, "minimum_android": 931}
