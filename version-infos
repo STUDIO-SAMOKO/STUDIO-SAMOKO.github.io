@@ -1,1 +1,4 @@
-930
+{
+  minimum_ios : 930,
+  minimum_android : 931
+}
