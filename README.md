@@ -7,7 +7,6 @@
 > "SAMOKO" is a mobile puzzle game where players merge animal blocks to create larger ones, featuring cute graphics and competitive gameplay.<br>
 > Start your journey to create an elephant block today!<br>
 
-<br>
 <p align="center">
   <a href="https://apps.apple.com/app/samoko/id6476100658">
   <img src="https://github.com/STUDIO-SAMOKO/STUDIO-SAMOKO.github.io/assets/155935147/595a8ef2-51d8-4a81-9925-8cd188dfe838" style="width:40%; height: auto;"
